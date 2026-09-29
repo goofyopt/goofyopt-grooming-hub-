@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goofyopt.github.io/goofyopt-grooming-hub-/sitemap.xml
